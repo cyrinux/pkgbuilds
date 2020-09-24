@@ -1,7 +1,8 @@
 pkgbase = gruvbox-icon-theme
 	pkgdesc = A gruvboxed icon theme
 	pkgver = 1.0
-	pkgrel = 4
+	pkgrel = 5
+	url = https://github.com/cyrinux/gruvbox-icon-theme
 	arch = i686
 	arch = x86_64
 	license = GPL
