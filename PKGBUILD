@@ -16,7 +16,7 @@ source=("${pkgname}-${pkgver}-src.tar.gz::${url}/releases/download/${pkgver}/${p
     "${pkgname}-${pkgver}-src.tar.gz.asc::${url}/releases/download/${pkgver}/${pkgname}-${pkgver}-src.tar.gz.asc")
 validpgpkeys=('4F7BC1FD97170A79267686A6FC9B1319726657D3')
 sha256sums=('a4bca063de87c292793ebf36f6430fa92b459e96fb58bda6b84efe4f8a3a39ca'
-    'SKIP')
+            'SKIP')
 
 build() {
     cd "${pkgname}-${pkgver}"
